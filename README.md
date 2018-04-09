@@ -4,12 +4,21 @@
 Я выбрала синонимичные слова center(американское) и centre(английское). Различаются они только написанием. В скриншоте видно, что слова действительно характерны для разных вариантов английского, т.к. частотность слова center в американском английском намного выше, чем centre. Аналогично со словом centre, его в британском английском используют гораздо чаще, чем center. 
 ### Часть 2, задание 2.
 
-Глаголы book и reserve.
-Оба глагола могут употребляться, например, со словом "seat": 
-"Book your seats now in case to not to be late." 
-"These seats were reserved for judges."
-Только глагол "book" может употребляться, например, со словом "flight": 'I can book a flight.'
-Только глагол "reserve" может употребляться, например, со словом "slot": "That slot is reserved for Bridget"
+Глаголы help и assist.
+
+Оба глагола могут употребляться, например, со словом "yourself": 
+
+Anyway, help yourself to bread rolls.
+
+It is very important to do a first-aid course, in order to be able to assist yourself and others in time of need.
+
+Глагол assist может употребляться со словом minister:
+
+The President also appoints deputy ministers, who assist ministers in their duties.
+
+Глагол help может употребляться со словом God:
+
+May merciful God help us attain these goals.
 #### Бонусное задание
 
 В Sketch Engine (BNC) частотность слова lion неравномерно растет, хотя в Google Ngrams она наоборот, неравномерно падает. 
