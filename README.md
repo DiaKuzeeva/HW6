@@ -20,11 +20,12 @@ difficult, important, fundamental.
 ![](https://github.com/DiaKuzeeva/HW6/blob/master/6_2_22.png)
 Глаголы help и assist.
 
-Оба глагола могут употребляться, например, со словом "yourself": 
+Оба глагола могут употребляться, например,  со словом "student": 
 
-Anyway, help yourself to bread rolls.
+The programmers said it could assist students in their learning.
 
-It is very important to do a first-aid course, in order to be able to assist yourself and others in time of need.
+The Foundation also set up a leadership project to help students become "ambassadors for tolerance" in their communities.
+
 
 Глагол assist может употребляться со словом minister:
 
